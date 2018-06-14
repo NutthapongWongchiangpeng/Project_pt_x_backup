@@ -1,1 +1,0 @@
-python eval.py --logtostderr --checkpoint_dir=D:\DataSet\model_car\model.ckpt-22985 --eval_dir=D:\DataSet\model_car --pipeline_config_path=C:\Users\LOLiCON\Desktop\obj_detect\faster_rcnn_resnet101_car_pt_x_only_1.config
